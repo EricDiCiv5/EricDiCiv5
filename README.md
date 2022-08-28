@@ -6,15 +6,15 @@ On this "journey" i've been learning the ⬇️following⬇️ languages / softw
 
 <img src="readme_images/HTML5_logo.svg" width="250px" height="auto" title="HTML5 logo"/>
 <img src="readme_images/CSS3_logo.svg" width="250px" height="auto" title="CSS3 logo"/>
-![alt text 3](readme_images/Sass_Logo.svg)
-![alt text 4](readme_images/JavaScript_logo.svg)
-![alt text 5](readme_images/Typescript_logo.svg)
-![alt text 6](readme_images/Angular_logo.svg)
-![alt text 7](readme_images/Git-logo.svg)
-![alt text 8](readme_images/docker-vector-logo.svg)
-![alt text 8](readme_images/Figma-logo.svg)
-![alt text 8](readme_images/Adobe_Photoshop_CS6_icon.svg)
-![alt text 8](readme_images/Adobe_Premiere_Pro_icon.svg)
+<img src="readme_images/Sass_Logo.svg" width="250px" height="auto" title="SCSS logo"/>
+<img src="readme_images/JavaScript_Logo.svg" width="250px" height="auto" title="JS logo"/>
+<img src="readme_images/Typescript_logo.svg" width="250px" height="auto" title="TS logo"/>
+<img src="readme_images/Angular_logo.svg" width="250px" height="auto" title="Angular logo"/>
+<img src="readme_images/Git-logo.svg" width="250px" height="auto" title="Git logo"/>
+<img src="readme_images/docker-vector-logo.svg" width="250px" height="auto" title="Docker logo"/>
+<img src="readme_images/Figma-logo.svg" width="250px" height="auto" title="Figma logo"/>
+<img src="readme_images/Adobe_Photoshop_CS6_icon.svg" width="250px" height="auto" title="Adobe Photoshop CS6 logo"/>
+<img src="readme_images/Adobe_Premiere_Pro_icon.svg" width="250px" height="auto" title="Adobe Premiere Pro logo"/>
 
 You're able to find and contact me on these media:
 
