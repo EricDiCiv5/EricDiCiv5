@@ -4,8 +4,7 @@ An audiovisual degree graduated man interested mainly in web programming (💻�
 
 On this "journey" i've been learning the ⬇️following⬇️ languages / softwares / tools:
 
-<img src="readme_images/HTML5_logo.svg" width="150px" height="auto" title="HTML5 logo"/>
-<img src="readme_images/CSS3_logo.svg" width="150px" height="auto" title="CSS3 logo"/>
+<img src="readme_images/HTML5_logo.svg" width="150px" height="auto" title="HTML5 logo"/> <img src="readme_images/CSS3_logo.svg" width="150px" height="auto" title="CSS3 logo"/>
 <img src="readme_images/Sass_Logo.svg" width="150px" height="auto" title="SCSS logo"/>
 <img src="readme_images/JavaScript_logo.svg" width="150px" height="auto" title="JS logo"/>
 <img src="readme_images/Typescript_logo.svg" width="150px" height="auto" title="TS logo"/>
