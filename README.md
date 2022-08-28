@@ -1,4 +1,15 @@
-### Hi there 👋
+# Greetings!! 👋
+
+# Eric Díaz's here! 🙋🏼‍♂️
+
+## An audiovisual degree graduated man interested mainly in web programming (💻🖼️Front-End mostly)
+## and also on content's edition🎞️🎚️.
+
+
+You're able to find and contact me on these media:
+
+
+
 
 <!--
 **EricDiCiv5/EricDiCiv5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
