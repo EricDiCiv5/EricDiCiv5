@@ -1,6 +1,4 @@
-# Greetings!! 👋
-
-# Eric Díaz's here! 🙋🏼‍♂️
+# Greetings!! Eric Díaz's here! 🙋🏼‍♂️
 
 An audiovisual degree graduated man interested mainly in web programming (💻🖼️Front-End mostly) and also on content's edition🎞️🎚️.
 
