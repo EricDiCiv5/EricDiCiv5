@@ -3,7 +3,7 @@
 An audiovisual degree graduated man interested mainly in web programming (💻🖼️Front-End mostly) and also on content's edition🎞️🎚️.
 
 On this "journey" i've been learning the ⬇️following⬇️ languages / softwares / tools:
-<div style="background-color: #FFF">
+<div style="backgroundColor: #FFF">
   <img src="readme_images/HTML5_logo.svg" style="margin: 10%" width="150px" height="150px" title="HTML5 logo"/> <img src="readme_images/CSS3_logo.svg" style="margin:   10%" width="150px" height="150px" title="CSS3 logo"/> <img src="readme_images/Sass_Logo.svg" style="margin: 10%" width="150px" height="150px" title="SCSS logo"/> <img src="readme_images/JavaScript_logo.svg" style="margin: 10%" width="150px" height="150px" title="JS logo"/> <img src="readme_images/Typescript_logo.svg" style="margin: 10%" width="150px" height="150px" title="TS logo"/> <img src="readme_images/Angular_logo.svg" style="margin: 10%" width="150px" height="150px" title="Angular logo"/>
   <img src="readme_images/Git-logo.svg" style="margin: 10%" width="150px" height="150px" title="Git logo"/>
   <img src="readme_images/docker-vector-logo.svg" style="margin: 10%" width="150px" height="150px" title="Docker logo"/>
