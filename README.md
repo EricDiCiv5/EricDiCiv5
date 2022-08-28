@@ -4,7 +4,7 @@ An audiovisual degree graduated man interested mainly in web programming (💻�
 
 On this "journey" i've been learning the ⬇️following⬇️ languages / softwares / tools:
 
-![alt text 1](readme_images/HTML5_logo.svg width="200px" height="200px")
+![alt text 1]<img src="readme_images/HTML5_logo.svg" width="200px" height="200px"/>
 ![alt text 2](readme_images/CSS3_logo.svg)
 ![alt text 3](readme_images/Sass_Logo.svg)
 ![alt text 4](readme_images/JavaScript_logo.svg)
