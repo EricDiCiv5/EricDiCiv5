@@ -7,7 +7,7 @@ On this "journey" i've been learning the ⬇️following⬇️ languages / softw
 <img src="readme_images/HTML5_logo.svg" width="250px" height="auto" title="HTML5 logo"/>
 <img src="readme_images/CSS3_logo.svg" width="250px" height="auto" title="CSS3 logo"/>
 <img src="readme_images/Sass_Logo.svg" width="250px" height="auto" title="SCSS logo"/>
-<img src="readme_images/JavaScript_Logo.svg" width="250px" height="auto" title="JS logo"/>
+<img src="readme_images/JavaScript_logo.svg" width="250px" height="auto" title="JS logo"/>
 <img src="readme_images/Typescript_logo.svg" width="250px" height="auto" title="TS logo"/>
 <img src="readme_images/Angular_logo.svg" width="250px" height="auto" title="Angular logo"/>
 <img src="readme_images/Git-logo.svg" width="250px" height="auto" title="Git logo"/>
