@@ -4,10 +4,10 @@ An audiovisual degree graduated man interested mainly in web programming (💻�
 
 On this "journey" i've been learning the ⬇️following⬇️ languages / softwares / tools:
 
-![alt text 1](readme_images/HTML5_logo.svg)
+![alt text 1](readme_images/HTML5_logo.svg width="200" height="200)
 ![alt text 2](readme_images/CSS3_logo.svg)
 ![alt text 3](readme_images/Sass_Logo.svg)
-![alt text 4](readme_images/Javascript_logo.svg)
+![alt text 4](readme_images/JavaScript_logo.svg)
 ![alt text 5](readme_images/Typescript_logo.svg)
 ![alt text 6](readme_images/Angular_logo.svg)
 ![alt text 7](readme_images/Git-logo.svg)
