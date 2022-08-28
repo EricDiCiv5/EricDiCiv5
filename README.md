@@ -2,8 +2,7 @@
 
 # Eric Díaz's here! 🙋🏼‍♂️
 
-## An audiovisual degree graduated man interested mainly in web programming (💻🖼️Front-End mostly)
-## and also on content's edition🎞️🎚️.
+An audiovisual degree graduated man interested mainly in web programming (💻🖼️Front-End mostly) and also on content's edition🎞️🎚️.
 
 
 You're able to find and contact me on these media:
