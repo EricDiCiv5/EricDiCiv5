@@ -2,9 +2,21 @@
 
 An audiovisual degree graduated man interested mainly in web programming (💻🖼️Front-End mostly) and also on content's edition🎞️🎚️.
 
+On this "journey" i've been learning the ⬇️following⬇️ languages / softwares / tools:
+
+![alt text 1](readme_images/HTML5_logo.svg)
+![alt text 2](readme_images/CSS3_logo.svg)
+![alt text 3](readme_images/Sass_Logo.svg)
+![alt text 4](readme_images/Javascript_logo.svg)
+![alt text 5](readme_images/Typescript_logo.svg)
+![alt text 6](readme_images/Angular_logo.svg)
+![alt text 7](readme_images/Git-logo.svg)
+![alt text 8](readme_images/docker-vector-logo.svg)
+![alt text 8](readme_images/Figma-logo.svg)
+![alt text 8](readme_images/Adobe_Photoshop_CS6_icon.svg)
+![alt text 8](readme_images/Adobe_Premiere_Pro_icon.svg)
 
 You're able to find and contact me on these media:
-
 
 
 
