@@ -19,6 +19,7 @@ On this "journey" i've been learning the ⬇️following⬇️ languages / softw
 
 You're able to find and contact me on these media:
 
+<img src="readme_images/Linkedin_circle.svg" style="margin: 10%" width="150px" height="150px" title="Linkedin circle logo"/> <img src="readme_images/YouTube_full-color_icon_(2017).svg" style="margin: 10%" width="150px" height="150px" title="Youtube logo"/> <img src="readme_images/Instagram_logo_2016.svg" style="margin: 10%" width="150px" height="150px" title="Instagram logo"/>
 
 
 
